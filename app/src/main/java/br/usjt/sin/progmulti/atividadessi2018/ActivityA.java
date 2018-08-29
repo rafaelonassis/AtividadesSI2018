@@ -89,7 +89,7 @@ public class ActivityA extends Activity {
     }
 
     public void startDialog(View v) {
-        Intent intent = new Intent(ActivityA.this, DialogActivity.class);
+        Intent intent = new Intent(this, DialogActivity.class);
         startActivity(intent);
     }
 
