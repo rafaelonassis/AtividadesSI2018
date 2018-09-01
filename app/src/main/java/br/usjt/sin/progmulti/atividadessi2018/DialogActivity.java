@@ -14,6 +14,12 @@
  * limitations under the License.
  */
 
+
+/**
+ * Rafael Onassis Nicolau
+ * RA: 816120678
+ */
+
 package br.usjt.sin.progmulti.atividadessi2018;
 
 import android.app.Activity;
